@@ -2,3 +2,5 @@ d2l-zh/
 d2l-zh.zip
 .ipynb_checkpoints
 .idea/
+.DS_Store
+.virtual_documents/
